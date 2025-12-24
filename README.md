@@ -1,0 +1,1 @@
+# rename-layers-photoshop-javascript
